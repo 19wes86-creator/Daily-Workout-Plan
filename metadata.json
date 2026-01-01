@@ -1,0 +1,7 @@
+{
+  "name": "StrideStrong",
+  "description": "A high-performance strength training app designed specifically for runners to increase pace and prevent injuries, with a special focus on hip and glute stability.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
