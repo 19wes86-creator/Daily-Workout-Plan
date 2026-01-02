@@ -3,7 +3,7 @@
   "name": "StrideStrong Runner Strength",
   "short_name": "StrideStrong",
   "description": "Daily strength and injury prevention for runners.",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#f8fafc",
   "theme_color": "#0f172a",
